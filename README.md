@@ -260,7 +260,7 @@
         <img class="modal-content" id="img01" alt="">
         <div id="caption"></div>
     </div>
-
+<br>
     <img src="../ima/backfour.jpg" style="width:100%;height:100%;top:0;bottom:0;left:0;right:0;position:fixed">
     <div id="audio_btn" class="rotate">
         <!--这是音乐-->
